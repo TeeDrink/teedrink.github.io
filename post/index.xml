@@ -8,15 +8,6 @@
     <language>en</language>
     <lastBuildDate>Sat, 25 Sep 2021 20:42:22 +0800</lastBuildDate><atom:link href="http://goodteas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>搜索</title>
-      <link>http://goodteas.github.io/post/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://goodteas.github.io/post/search/</guid>
-      <description>/* 手机适配 */ @media screen and (max-width: 500px) { .search{ padding-right: 25px; } .search input{ width: 100%; } .search button{ display: none; } } /* 电脑适配 */ @media screen and (min-width: 500px) { .search{ width: 500px; } .search input{ width: 444px; } } /* 通用样式 */ .search{ margin: auto; } .search input{ outline: none; border: 2px solid #c05b4d; height: 32px; padding:</description>
-    </item>
-    
-    <item>
       <title>[东莞] 【2021年2月】 东莞南城的混血熟女【验证时间】</title>
       <link>http://goodteas.github.io/post/info/info13/</link>
       <pubDate>Sat, 25 Sep 2021 20:42:22 +0800</pubDate>
