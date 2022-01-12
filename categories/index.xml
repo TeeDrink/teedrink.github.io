@@ -5,6 +5,16 @@
     <link>http://goodteas.github.io/categories/</link>
     <description>Recent content in Categories on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://goodteas.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Sep 2021 20:42:22 +0800</lastBuildDate><atom:link href="http://goodteas.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>info</title>
+      <link>http://goodteas.github.io/categories/info/</link>
+      <pubDate>Sat, 25 Sep 2021 20:42:22 +0800</pubDate>
+      
+      <guid>http://goodteas.github.io/categories/info/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
